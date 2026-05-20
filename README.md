@@ -1,5 +1,5 @@
 
-# Trabajo-coba
+# Trabajo-coba:
 
 ## Pac-Man (Arcade, 1980)
 Pac-Man es uno de los videojuegos más icónicos y exitosos de la historia, desarrollado por Namco y lanzado originalmente en 1980. Definido como un juego de persecución en laberinto, revolucionó la industria al alejarse de los juegos de disparos espaciales predominantes de la época.
