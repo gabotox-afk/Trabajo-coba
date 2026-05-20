@@ -2,7 +2,7 @@
 # Trabajo-coba:
 
 <div align="center">
-![foto_pacman](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbS4mplbC0Cfbs11pmyuq_HrThoQiUzWk-2g&s)
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbS4mplbC0Cfbs11pmyuq_HrThoQiUzWk-2g&s" alt="imagen_pacman" width="50%" />
 </div>
 
 ## Pac-Man (Arcade, 1980)
